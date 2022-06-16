@@ -1,1 +1,3 @@
-This is going to cause a conflict!!!!
+# References after conflict resolution!!!
+
+* octocat 1 😈
